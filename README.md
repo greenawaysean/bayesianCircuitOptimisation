@@ -1,5 +1,5 @@
 # bayesianCircuitOptimisation
- Code and data for the estimation of process and 0-fidelities for the Bayesian optimisation of quantum channels.
+ Code and data for the estimation of process and 0-fidelities for the Bayesian optimisation of quantum channels used in the paper "Efficient Assessment of Process Fidelity".
  
  The code depends on the qutip package for numerical simulations and on Qiskit for running experiments on real devices.
  
